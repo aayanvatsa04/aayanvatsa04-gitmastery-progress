@@ -239,5 +239,14 @@
       "Great work pushing the PQR branch to your fork!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1787835520.332872,
+    "completed_at": 1787835521.643913,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
   }
 ]
